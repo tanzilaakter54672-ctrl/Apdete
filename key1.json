@@ -9,6 +9,10 @@
     {
       "ID": "FRIEND_DEVICE_ID_HERE",
       "Expiry": "01/01/2025"
+    },
+    {
+      "ID": "3BA4A93F018DC799",
+      "Expiry": "27/12/2026"
     }
   ]
 }
